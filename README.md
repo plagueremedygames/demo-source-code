@@ -4,7 +4,7 @@
 
 This is the **demo** source code. This is what we created for the game jam.
 
-# Installation;
+# Installation
 
 **Method 1:**
 
