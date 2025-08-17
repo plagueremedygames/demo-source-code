@@ -1,7 +1,5 @@
 # demo-source-code
 
-# What is this?
-
 This is the **demo** source code. This is what we created for the game jam.
 
 # Installation
@@ -18,6 +16,4 @@ This is the **demo** source code. This is what we created for the game jam.
 
 1. Install and open GameMaker Studio 2, as well as git
 2. Open your command prompt and run the command ```git clone https://github.com/plagueremedygames/demo-source-code.git``` from where you want the project to be stored
-3. Attempt to import the project into GameMaker using the import button or by just dragging the files into an empty project folder
-4. ???
-5. Profit.
+3. Import the project into GameMaker using the import button or by just dragging the files into an empty project folder
